@@ -6,12 +6,7 @@
 - [Features](#features)
 - [Live Demo](#live-demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Project Overview
 
